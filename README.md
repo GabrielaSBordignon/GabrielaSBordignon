@@ -2,7 +2,7 @@
 - 👀 Eu estou aqui para aprender mais
 - 🌱 Atualmente estou aprendendo programação na escola sesi
 - 📫 Você pode enrtrar em contato comigo pelo instagram @gabordignon
-- 😄 Pronouns:Ela/dela
+- 😄 Pronomes:Ela/dela
 
 
 
