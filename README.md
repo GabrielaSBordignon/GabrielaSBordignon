@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @GabrielaSBordignon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Oii, eu sou a @GabrielaSBordignon
+- 👀 Eu estou aqui para aprender mais
+- 🌱 Atualmente estou aprendendo programação na escola sesi
+- 📫 Você pode enrtrar em contato comigo pelo instagram @gabordignon
+- 😄 Pronouns:Ela/dela
 
-<!---
-GabrielaSBordignon/GabrielaSBordignon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
